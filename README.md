@@ -1,6 +1,6 @@
 # Hi, I'm Martin 👋
 
-**Forward Deployed Engineer** · LLM systems, AI agents & MCP · Skopje, North Macedonia (CET)
+**Software Engineer** · Backend, mobile & LLM systems · Skopje, North Macedonia (CET)
 
 I build AI systems and ship them into real use. 9 years of shipping production software across backend, mobile and, more recently, LLM pipelines and agents. Comfortable owning a problem from the first conversation with a client to the system running in production.
 
@@ -18,6 +18,6 @@ I build AI systems and ship them into real use. 9 years of shipping production s
 - **Mobile:** Android, Jetpack Compose, Flutter, Kotlin Multiplatform
 
 ### Open to
-Forward deployed and AI engineering roles, remote or hybrid.
+Software engineering roles across AI, backend and client-facing work, remote or hybrid.
 
 📫 [LinkedIn](https://www.linkedin.com/in/martin-gelevski-6904a474/)
